@@ -11,11 +11,11 @@ TDS-Virtual-TA/
 .env
 
 # SQLite DB (large, private, already generated)
-knowledge_base.db
+# knowledge_base.db
 
 # Scraped data (optional)
-downloaded_threads/
-markdown_files/
+# downloaded_threads/
+# markdown_files/
 
 # Playwright auth
 auth.json
